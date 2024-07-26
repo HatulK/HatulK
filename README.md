@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kabalo</h1>
-<h3 align="center">A passionate developer from Israel</h3>
+<h3 align="center">A passionate Software Developer and a Computer Science and Mathematics BSc student.
+</h3>
 
 - 📚 B.Sc. Computer Science and Mathematics 3rd Year Student
   
